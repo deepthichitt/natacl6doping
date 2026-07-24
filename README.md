@@ -1,5 +1,5 @@
 # Supporting Information
-This repository contains (1) Relaxed_bulk (VASP POSCAR format) of the bulk supercell and (2) Relaxed_supercells of all the native defects - including vacancies, interstitials, antisites and Schottky defects as well as selected dopants across various charge states (named as 'qm' where m is charge). (3) Nudged Elastic Band (NEB) migration pathways for both interstitial and vacancy diffusion, including initial, final, and intermediate image configurations along with energies in .csv file.
+This repository contains (1) Relaxed bulk (VASP POSCAR format) of the bulk supercell and (2) Relaxed supercells of all the native defects - including vacancies, interstitials, antisites and Schottky defects as well as selected dopants across various charge states (named as 'qm' where m is charge). (3) Nudged Elastic Band (NEB) migration pathways for Na interstitial and vacancy, including initial, final, and intermediate image along with energies in .csv file.
 
 This repository accompanies the paper "Mechanism-Guided Aliovalent Doping of NaTaCl6: Zr and Hf Doping Enhances Na-Ion Conductivity".
 
